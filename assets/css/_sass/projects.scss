@@ -26,6 +26,21 @@
   display: table;
 }
 
+/* FOR PROJECT PAGE BAR*/
+.projectBar {
+  /* Minimum width of 200px and grow to fit available space */
+  flex: 1 0 200px;
+  border-radius: 15px;
+  background: $projectbox;
+  @media (prefers-color-scheme: dark) {
+    background: $projectbox-dark;
+  }
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+  display: table;
+}
+
 .projectTile a {
   display: table-cell;
   vertical-align: middle;

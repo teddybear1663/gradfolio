@@ -1,12 +1,15 @@
 /* Profile */
 .profile {
     border-style: solid;
-    border-color: $light-gray;
+    //border-color: $light-gray;
+    border-color: #6b6b6b;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
-    border-radius: 6px;
-    border-radius: 50%;
+    border-radius: 1px;
+    width: 200px;
+    height: auto;
+    //border-radius: 50%;
 }
 
 .left {

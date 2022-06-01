@@ -1,19 +1,21 @@
-$base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   20px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
+$base-font-family: 'Commissioner', sans-serif; // font type
+$base-font-size:   27px; // font size for all text 
+$base-font-weight: 550; // font weight for all text 
+$small-font-size:  20px;
 $base-line-height: 1.7;
+$navigation-font-size: 30px; // navigation bar font size 
+$navigation-font-weight: 800;
 
 $spacing-unit:     30px;
-$light-gray: gray;
-$text-color:       #333;
+$light-gray: #333333;
+$text-color:       #333333;
 $background-color: #fdfdfd;
-$brand-color:      #60c17d;
+$brand-color:      #333333; // navigation bar font color 
 
 // Color scheme for light
-$body-bg: #fdfdfd;
-$projectbox: #cfe6a4;
-$text-color: #333;
+$body-bg: #fffff0; // page background color 
+$projectbox: #dcdcdc4e; // project box background color 
+$text-color: #333; // text color 
 
 // Color scheme for dark modes
 $body-bg-dark: #061725;

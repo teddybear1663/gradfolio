@@ -1,0 +1,51 @@
+1) To change profile pic,
+- upload image to /assets/image
+- change directory at index.md
+
+To change profile pic layout,
+- go to /assets/css/profile.scss
+
+2) To change About Me content,
+- go to index.md
+
+3) To change name,
+- go to _config.yml
+
+4) To change navigation bar,
+- go to /_includes/navigation.html
+
+5) To change css,
+- go to /assets/css/_cass/style.css 
+or /assets/css/_cass/variable.scss
+or /assets/css/_cass/projects.scss
+
+/assets/css/_cass/variable.css can change
+- font size/weight for all text
+- navigation bar font size
+- navigation bar font color
+- navigation font weight (boldness)
+- site background color
+- projects box background color
+- text color for all text
+
+/assets/css/_cass/style.css can change body height
+
+/assets/css/_cass/projects.scss change projects box css
+
+6) To change font type,
+- go to /_includes/favicon.html update fonts.google
+- go to /assets/css/_cass/variable.scss to change $base-font-family
+
+7) To change projects preview page layout,
+- go to /_pages/projects.md
+
+8) To change project page layout,
+- go to /_layouts/post.html
+
+To change project page content,
+- go to /_projects/xxx.md
+
+9) To change resume page layout,
+- go to resume.md
+
+

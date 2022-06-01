@@ -1,7 +1,7 @@
 ### your site title here
 
 title: RA Ted
-description: 小08 | 全国冠军 | RA my life
+description: 
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -57,6 +57,7 @@ include:
 exclude:
   - README.md
   - LICENSE.md
+
 
 plugins:
   - jekyll-seo-tag
